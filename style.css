@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Roboto&display=swap');
+
+body{
+    margin: 20px;
+    font-family: 'Inter', sans-serif;
+} 
+
+h1, h2{
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+#section1{
+    box-sizing: border-box;
+    border: 2px solid #000000;
+    padding: 20px;
+}
+
+b{
+    font-style: italic;
+}
+
+a{
+    color: #000000;
+    font-size: 20px;
+}
+
+.text{
+    font-weight: 400;
+}
+
+img{
+    /* width: 1051px; */
+    height: 400px;
+}
+
+ol{
+    padding: 0;
+    margin-left: 20px;
+}
